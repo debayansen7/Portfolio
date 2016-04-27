@@ -1,0 +1,54 @@
+var bio = {
+    "name":"Debayan Sen",
+    "address":"AE-302, Sec-1, Salt Lake, Kolkata=700064",
+    "contact":"9674308102",
+    "photo":"",
+    "skills":["HTML","CSS","Javascript","AngularJS","Jquery"],
+    "education":[
+        {
+            "course":"BCA",
+            "institution":"M.S.Ramaiah College of Arts, Science and Commerce",
+            "board":"Bangalore Uniiversity",
+            "year":"2010"
+        },
+        {
+            "course":"XII",
+            "institution":"Central Model School, Barrackpore",
+            "board":"CBSE",
+            "year":"2010"
+        },
+        {
+            "course":"X",
+            "institution":"Central Model School, Barrackpore",
+            "board":"CBSE",
+            "year":"2010"
+        }
+
+    ],
+    "workExp":[
+        {
+            "companyName":"Emami Frank Ross",
+            "role":"Web developer",
+            "startDate":"01/03/2016",
+            "current":true,
+            "endDate":""
+        },
+        {
+            "companyName":"LearningMate Solutions",
+            "role":"Web developer",
+            "startDate":"20/10/2016",
+            "current":false,
+            "endDate":"27/11/2015"
+        }
+    ],
+    "projects":[
+        {
+            "projectName":"EFR Prescription Portal",
+            "projectCompany":"EFR"
+        },
+        {
+            "projectName":"EFR Ecommerce Portal",
+            "projectCompany":"EFR"
+        }
+    ]
+};
