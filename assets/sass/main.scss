@@ -1,0 +1,24 @@
+// main css-scss file for www.debayansen.com
+
+
+body{
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.wrapper{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  /*background-color: red;*/
+  border: 2px solid red;
+}
+
+.header{
+  width: 100%;
+}
+
+.footer{
+  width: 100%;
+}
